@@ -29,7 +29,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Environment variables
+#### Environment variables
 
 Before you can run the project, you need to create a .env file in the project root directory. This file will contain environment variables that are required for the project to run.
 
