@@ -19,5 +19,5 @@ from django.urls import path
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", include("assignment_handler.urls", namespace="assignment_handler")),
+    path("", include("assignment_handler.urls", namespace="assignment_sprinter")),
 ]
