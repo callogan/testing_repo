@@ -50,4 +50,4 @@ python manage.py runserver
 * Ability to create teams and projects
 * Maintaining your Task panel and Project tracking panel
 * Sorting assignments by tags
-* 
+* Creating a new instances
