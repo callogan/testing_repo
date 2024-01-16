@@ -6,6 +6,15 @@ This venue places at your disposal efficient means for regimented maintaining of
 You are able to resolve tasks individually using Task panel. You might as well collaborate along with other workers in tackling projects.
 Tags allow you to navigate assignments faster.
 
+This venue places at your disposal efficient means for regimented maintaining of both standalone tasks 
+and compound assignments (projects). You are able to resolve tasks individually using Task panel. 
+You might as well collaborate along with other workers in tackling projects.
+Tags allow you to navigate assignments faster.
+
+This venue places at your disposal efficient means for regimented maintaining of both standalone tasks and compound assignments (projects).
+You are able to resolve tasks individually using Task panel. You might as well collaborate along with other workers in tackling projects.
+Tags allow you to navigate assignments faster.
+
 ## Check it out!
 
 [Workflow Organizer project deployed to Render]()
